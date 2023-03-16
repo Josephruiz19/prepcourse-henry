@@ -1,2 +1,1 @@
-# prepcourse-henry
-este es un repositorio de prueba de henry
+este es un repositorio clonado para github a mi computadora.
